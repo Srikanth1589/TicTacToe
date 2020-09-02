@@ -44,7 +44,7 @@ public class TicTacToe {
 		if (decisionReached == true) {
 			System.out.println("-------  "+ player +" is the winner! --------");
 		} else {
-			System.out.println("------- Game ended in a draw! -------");
+			System.out.println("------- Game ended in a draw! WARGAMES!! -------");
 		}
 		scan.close();
 	}
